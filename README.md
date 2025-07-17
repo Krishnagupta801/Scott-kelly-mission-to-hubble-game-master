@@ -1,7 +1,3 @@
- 
-
-
-> Open this page at [https://saumyasingh-18.github.io/scott-kelly-mission-to-hubble-game/](https://saumyasingh-18.github.io/scott-kelly-mission-to-hubble-game/)
 
 ## Use as Extension
 
